@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NCST</title>
+<style>
+        p {
+            margin-left: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<h1 style="background-color:Gold;">NATIONAL COLLEGE OF SCIENCE AND TECHNOLOGY</h1>
+
+<img src="https://shorturl.at/ruvxH" style="width:1333px;height:500px;">
+<hr>
+<h2>HISTORICAL BACKGROUND</h2>
+<p>
+	Through the brainy child 23 yea-old vissionary entrepreneur
+	in the person of EMERSON BAUTISTA ATANACIO
+</p>
+<p>	
+	NCST was established in 1998, and has chosen Cavite as its place 
+	of birth due to the strategic advantages it offers. 
+	The province has numerous technology-based industries 
+	and companies operating in various technoparks.
+</p>
+<p>
+	With an initial enrollment of 550 students in 1998,
+	the school has now increased more times from it's
+	its original number in all of its programs.
+</p>
+<h2>VISION</h2>
+<p>
+	The Natinal College of Science and Technology envisions to become
+	one of the nation's leading technological educational institution
+	with campuses in various areas of the Philippines 
+</p>
+<h2>MISSION</h2>
+<p>
+	NCST undertakes the responsibility of providing he country with
+	quality graduates who are trained with industry responsive knowledge
+	and skills and founded with underpinning values of love, justices,
+	mutual respect and peace.
+</p> 
+<hr>   
+<img src="https://shorturl.at/esSX7" style="width:1333px;height:500px;">
+
+</body>
+</html>
